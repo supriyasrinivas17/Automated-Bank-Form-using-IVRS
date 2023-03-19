@@ -1,0 +1,14 @@
+pip install gTTS
+pip install playsound==1.2.2
+pip install opencv-python
+pip install pyzbar
+pip install SpeechRecognition
+pip install selenium
+pip install db-sqlite3
+pip install times
+pip install DateTime
+pip install num2words
+pip install word2number
+pip install translate
+pip install translators
+pip install chromedriver-binary== (according to chrome version)

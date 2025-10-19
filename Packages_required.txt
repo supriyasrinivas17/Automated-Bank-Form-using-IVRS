@@ -1,14 +1,12 @@
-pip install gTTS
-pip install playsound==1.2.2
-pip install opencv-python
-pip install pyzbar
-pip install SpeechRecognition
-pip install selenium
-pip install db-sqlite3
-pip install times
-pip install DateTime
-pip install num2words
-pip install word2number
-pip install translate
-pip install translators
-pip install chromedriver-binary== (according to chrome version)
+opencv-python	For webcam and image processing (cv2)
+numpy	For numerical operations used with images
+pyzbar	To decode QR codes from images
+gtts	Google text-to-speech for audio prompts
+pygame	To play audio files
+SpeechRecognition	Speech to text recognition
+selenium	Browser automation for form filling
+webdriver-manager	To auto-download ChromeDriver for Selenium
+translators	To translate Telugu voice input to English
+num2words	Converts numbers to words (e.g., 100 → "one hundred")
+word2number	Converts spoken words to numbers
+pip install opencv-python numpy pyzbar gtts pygame SpeechRecognition selenium webdriver-manager translators num2words word2number

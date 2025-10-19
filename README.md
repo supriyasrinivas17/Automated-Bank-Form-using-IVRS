@@ -1,4 +1,4 @@
-Automatic Bank Form Generation using IVRS (Extended Version)
+Voice-Driven-Banking-For-Illiterate-Users-Using-NLP (Extended Version)
 This project is an enhanced and extended version of the original system developed by MJR Varma (Jagannadha Rohit Varma Mandhapati) at Maharaj Vijayaram Gajapathi Raj College of Engineering. The extension builds upon his socially relevant initiative designed to assist illiterate users in filling out banking forms through an intelligent IVRS-based system.
 
 Overview
@@ -77,5 +77,5 @@ Modular code restructuring for maintainability.
 The original core concept and functionality were first developed by MJR Varma, and this project serves as a refined adaptation extending his socially impactful contribution.
 
 Conclusion
-The Automatic Bank Form Generation using IVRS (Extended Version) stands as a step toward inclusive technological accessibility. By allowing users to interact in their own language and automating form generation, it embodies the spirit of socially responsible innovation through technology.
+Voice-Driven-Banking-For-Illiterate-Users-Using-NLP(Extended Version) stands as a step toward inclusive technological accessibility. By allowing users to interact in their own language and automating form generation, it embodies the spirit of socially responsible innovation through technology.
 
